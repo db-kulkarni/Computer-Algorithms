@@ -29,5 +29,6 @@ This repository contains interactive, self-contained lab practicals for the *Com
 | 8 | 🔗 [Nesting Boxes](practicals/nesting-boxes/) | DP solution + SageMath visualization of longest nesting chain |
 
 
-
+## For More Detailed info visit
+https://code2tutorial.com/tutorial/8357512b-d938-41a1-9ca0-3cb9e2df382f/index.md
 
