@@ -1,1 +1,33 @@
-# Computer-Algorithms
+# Computer Algorithms Lab Manual  
+**Course Instructor**: Prof. D. B. Kulkarni  
+**Course**: Computer Algorithms  
+
+This repository contains interactive, self-contained lab practicals for the *Computer Algorithms* course. Each practical includes theory, a minimal working implementation, and critical thinking questions to deepen understanding.
+
+
+##  How to Use This Repo
+
+1. **Browse** any practical by clicking the links below.  
+2. Read the **theory** and **algorithm** in `README.md`.  
+3. Explore the **code** in the `code/` subdirectory.  
+4. Run the program locally and (where applicable) use tools like `gprof` or SageMath for analysis.  
+5. Reflect on the questions in `modifications.md` to go beyond the basics.
+
+
+
+##  Practicals (In Order)
+
+| # | Practical | Description |
+|---|----------|-------------|
+| 1 | 🔗 [Quick Sort + gprof](practicals/quick-sort/) | Sorting algorithm with performance profiling using GNU profiler |
+| 2 | 🔗 [K-Means Clustering](practicals/kmeans/) | Unsupervised clustering with convergence and centroid updates |
+| 3 | 🔗 [Vector Quantization](practicals/vq/) | Signal compression using codebooks |
+| 4 | 🔗 [MPI Arithmetic](practicals/mpi/) | Distributed computation with master-worker model |
+| 5 | 🔗 [Eigenvalues & Eigenvectors](practicals/eigen-vector/) | Power iteration for dominant eigenpair |
+| 6 | 🔗 [SageMath Basics](practicals/sage-math/) | Symbolic math and function plotting |
+| 7 | 🔗 [Arbitrage (SageMath)](practicals/arbitrage-sage/) | Detect profitable cycles using graph theory in SageMath |
+| 8 | 🔗 [Nesting Boxes](practicals/nesting-boxes/) | DP solution + SageMath visualization of longest nesting chain |
+
+
+
+## 📂 Repository Structure
