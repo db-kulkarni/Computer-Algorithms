@@ -47,6 +47,5 @@ END FOR
 SWAP A[i + 1] AND A[high]
 RETURN i + 1
 
-## For more details
-https://code2tutorial.com/tutorial/edf6bb4b-67c9-4f30-9f31-891701ff4a47/01_sorting_algorithms_.md
+
 
